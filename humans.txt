@@ -1,0 +1,22 @@
+/* The Humans Responsible & Colophon */
+/* humanstxt.org */
+
+/*
+    dMMMMb  dMP dMP dMP     dMP    dMP dMP 
+   dMP dMP dMP dMP dMP     dMP    dMP.dMP  
+  dMMMMK  dMP dMP dMP     dMP     VMMMMP   
+ dMP aMF dMP.aMP dMP     dMP       .dMP    
+dMMMMP"  VMMMP" dMMMMMP dMMMMMP VMMMP"     
+
+*/
+
+/* TEAM */
+
+  Bully Creative Co.
+  Site: http://bullycreative.co
+  Twitter: @bullycreativeco
+  Location: Victoria, BC
+
+  Designer: Matt Salik
+  Designer: Jesse Campbell
+  Developer: Marc Alonzo

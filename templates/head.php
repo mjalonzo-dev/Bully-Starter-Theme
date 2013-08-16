@@ -21,4 +21,5 @@
   <script> /* Provisory for dev environment: */ localStorage.clear(); </script>
 
   <link rel="alternate" type="application/rss+xml" title="<?php echo get_bloginfo('name'); ?> Feed" href="<?php echo home_url(); ?>/feed/">
+  <link rel="author" href="<?php echo THEME_URL . '/humans.txt'; ?>" />
 </head>
